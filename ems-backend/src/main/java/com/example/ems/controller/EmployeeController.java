@@ -10,7 +10,7 @@ import org.springframework.web.bind.annotation.*;
 import java.util.List;
 
 
-@CrossOrigin(origins = "http://localhost:5173/")
+@CrossOrigin(origins = "https://ems123.netlify.app/")
 @RestController
 @RequestMapping("/api/employees")
 public class EmployeeController {
