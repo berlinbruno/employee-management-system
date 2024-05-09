@@ -20,3 +20,7 @@ The EMS (Employee Management System) Project is a comprehensive solution built u
 3. **Start Spring Boot Backend:** Run the Spring Boot application to start the backend server.
 4. **Start React Frontend:** Navigate to the `frontend` directory and run `npm start` to start the React frontend.
 5. **Access the Application:** Open your browser and navigate to `http://localhost:3000` to access the EMS application.
+
+## License
+
+Feel free to use this project as you wish. No restrictions apply.
